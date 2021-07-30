@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://socialproofsection.liamsworkshop.repl.co/](https://socialproofsection.liamsworkshop.repl.co/)
-- Live Site URL: [https://www.frontendmentor.io/solutions/social-proof-section-using-flex-css-html-as-well-as-desktopfirst-h5y2ozuBi](https://www.frontendmentor.io/solutions/social-proof-section-using-flex-css-html-as-well-as-desktopfirst-h5y2ozuBi)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-using-flex-css-html-as-well-as-desktopfirst-h5y2ozuBi](https://www.frontendmentor.io/solutions/social-proof-section-using-flex-css-html-as-well-as-desktopfirst-h5y2ozuBi)
+- Live Site URL: [https://socialproofsection.liamsworkshop.repl.co/](https://socialproofsection.liamsworkshop.repl.co/)
 
 ## My process
 
